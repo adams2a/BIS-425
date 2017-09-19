@@ -1,0 +1,1 @@
+SELECT * FROM bis425c1g1.user;
